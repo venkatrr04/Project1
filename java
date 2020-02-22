@@ -1,2 +1,4 @@
 hello
 sample
+text
+test
